@@ -1,0 +1,1 @@
+var o=(o=>(o.Focus="focus",o.Search="search",o.Schedule="schedule",o))(o||{}),c=(o=>(o.Clock="clock",o.Percent="percent",o.Pomodoro="pomodoro",o.Countup="countup",o))(c||{}),e=(o=>(o.Plus="Plus",o))(e||{});export{c as C,e as F,o as a};

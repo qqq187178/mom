@@ -1,0 +1,1 @@
+import{a as s,c as a,b as e,T as o,d as t,f as c}from"./Analytics-f7QHLdkf.js";const n=new s([a(c),e(),new Promise(s=>{const a=localStorage.getItem(o);(!a||Number(a)+t<Date.now())&&s()})]);export{n as s};

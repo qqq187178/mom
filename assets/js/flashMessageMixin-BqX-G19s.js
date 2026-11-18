@@ -1,0 +1,1 @@
+import{F as s,u as e}from"./index-BDdBpdox.js";import{e as a}from"./Analytics-f7QHLdkf.js";const h=s({setup:()=>({flashMessageId:null}),methods:{showFlashMessage(s){this.flashMessageId&&a.$emit("flashMessage:dismiss",this.flashMessageId),this.flashMessageId=e.uuidv4(),s.id=this.flashMessageId,a.$emit("flashMessage",s)}}});export{h as f};

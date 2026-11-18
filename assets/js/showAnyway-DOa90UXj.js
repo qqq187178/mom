@@ -1,0 +1,1 @@
+import{r as s}from"./index-BDdBpdox.js";const e=new class{constructor(){this.widgets=s([])}show(s){this.includes(s)||this.widgets.value.push(s)}hide(s){const e=this.widgets.value.indexOf(s);~e&&this.widgets.value.splice(e,1)}includes(s){return this.widgets.value.includes(s)}};export{e as s};

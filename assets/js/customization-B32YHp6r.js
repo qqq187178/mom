@@ -1,0 +1,1 @@
+import{c as s}from"./dashboard-BkhHLr9m.js";const o=()=>1===s.tasksActiveProviderId;export{o as i};

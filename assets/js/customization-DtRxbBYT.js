@@ -1,0 +1,1 @@
+import{b as s}from"./dashboard-BkhHLr9m.js";const o=s,r=(s,r)=>{const t=structuredClone(o[s]);r(t),o[s]=t};export{r as m};

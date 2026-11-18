@@ -1,0 +1,1 @@
+import{D as t,h as e}from"./index-BDdBpdox.js";const r={setup(){const r=t();return()=>{var t;return e("style",null==(t=r.default()[0])?void 0:t.text)}}};export{r as v};

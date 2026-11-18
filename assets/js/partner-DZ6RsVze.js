@@ -1,0 +1,1 @@
+import{p as r}from"./index-BDdBpdox.js";var n=0;function o(){return r[n]}export{o as g};

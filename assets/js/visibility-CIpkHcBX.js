@@ -1,0 +1,1 @@
+import{r as e}from"./index-BDdBpdox.js";import{C as i}from"./ComputedVisibilityLayer-DXTKTzCL.js";const s=e(!1),o=()=>new i("goalReview",()=>s.value,()=>({centerRegionClockVisible:!1,mantraVisible:!1,greetingVisible:!1,centerBelowVisible:!1}));export{s as g,o as m};

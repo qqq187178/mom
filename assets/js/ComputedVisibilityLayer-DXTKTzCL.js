@@ -1,0 +1,1 @@
+import{m as s,w as e}from"./index-BDdBpdox.js";class i{constructor(i,t,r){this.id=i,this.active=s(()=>t instanceof Function?t():t),this.overridesCallback=r,e(()=>this.overrides,()=>{m.models.customization.computeProperties()})}get overrides(){return this.active.value?this.overridesCallback():{}}}export{i as C};

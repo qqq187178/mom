@@ -1,0 +1,1 @@
+import{y as e,B as s,R as a}from"./index-BDdBpdox.js";import{g as t}from"./globalKeyEventManager-CcbOTEOM.js";function r(r,{active:n}={}){const o=`escapeGoBack-${e()}`;s(()=>{t.registerEventListener(o,"keyup","Escape",r,n)}),a(()=>{t.removeEventListener(o,"keyup","Escape")})}export{r as u};

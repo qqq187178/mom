@@ -1,0 +1,1 @@
+var t=(t=>(t.Disconnected="disconnected",t.Connected="connected",t.ReAuth="re-auth",t))(t||{});class s{constructor({id:t,title:s,iconUrl:e,beta:i,status:c,iconIsLight:n}){this.id=t,this.title=s,this.iconUrl=e,this.iconIsLight=n,this.beta=i,this.status=c}get connected(){return"connected"===this.status}}export{t as B,s as a};

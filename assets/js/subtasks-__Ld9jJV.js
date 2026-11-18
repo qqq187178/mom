@@ -1,0 +1,1 @@
+const e=(e,t,l=null)=>{var s;let n=e.filter(e=>!(e.completed||l&&e.groupId!==l))[0];for(;n&&(null==(s=n.subtasks)?void 0:s.length)&&(t||"milestone"===n.type);){const e=n.subtasks.find(e=>!e.completed);if(!e)break;n=e}return n??null};export{e as g};

@@ -1,0 +1,1 @@
+import{K as e}from"./Logger-sdbVYp0w.js";import{T as a}from"./index-BDdBpdox.js";const t=new e("ssoDpopBinding",1),n="pending",r=async e=>{e.keyPair&&await t.set(n,{keyPair:e.keyPair,createdAt:Date.now()})},s=async()=>{const e=await t.get(n);return await t.delete(n),!e||e.createdAt<Date.now()-18e5?null:a(e.keyPair)},i=async()=>{await t.delete(n)};export{i as d,r as o,s as r};

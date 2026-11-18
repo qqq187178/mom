@@ -1,0 +1,1 @@
+const t={inserted:function(t,e){var l;if(!1===(null==e?void 0:e.value))return;const i=null==(l=null==t?void 0:t.value)?void 0:l.length,n=t.getAttribute("type");let r=!1;"email"===n&&(r=!0,t.setAttribute("type","text")),t.select(),!i&&0!==i||"number"===n||(t.setSelectionRange(i,i),t.scrollLeft=t.scrollWidth),r&&t.setAttribute("type","email")}};export{t as S};

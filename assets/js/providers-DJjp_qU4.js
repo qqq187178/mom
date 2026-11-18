@@ -1,0 +1,1 @@
+import{e as s}from"./Analytics-f7QHLdkf.js";import{i as t}from"./dashboard-BkhHLr9m.js";import{refreshAllStores as r}from"./data-CmVqbv6Q.js";const a=(a,o,e={})=>{s.sendCrossTabMessage("tasksStore:resetAll"),t({tasksActiveProviderId:a,tasksActiveProjectId:o,...e}),r(!0)};export{a as s};

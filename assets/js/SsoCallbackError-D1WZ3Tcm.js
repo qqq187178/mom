@@ -1,0 +1,1 @@
+class r extends Error{constructor(r){super(`SSO callback returned error: ${r}`),this.name="SsoCallbackError",this.code=r}}export{r as S};

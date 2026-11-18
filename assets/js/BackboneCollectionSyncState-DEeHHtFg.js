@@ -1,0 +1,1 @@
+import{a as s,s as c}from"./index-BDdBpdox.js";const o=new class{constructor(){this.collectionsSynced=s({})}setCollectionSynced(s){c(this.collectionsSynced,s,!0)}};export{o as b};

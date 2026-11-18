@@ -1,0 +1,1 @@
+import{F as e}from"./index-BDdBpdox.js";import{n as r}from"./_plugin-vue2_normalizer-DeUNqxFl.js";const s=r(e({name:"AppHeaderDivider"}),function(){var e=this._self._c;return this._self._setupProxy,e("div",{staticClass:"app-header-divider"})},[],!1,null,"24647b44").exports;export{s as A};

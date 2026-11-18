@@ -1,0 +1,1 @@
+import"./index-DN2cePtU.js";import"./constants-BPZJVlCu.js";import{f as e}from"./Logger-sdbVYp0w.js";import{m as r}from"./migrateLegacyUserMessageHandler-iXtLjrkW.js";chrome.runtime&&chrome.runtime.onMessage.addListener((s,t,o)=>{if(e(t))return"legacyUserMigration:triggerOffscreenDocumentRequest"===s.type?(r(s.payload,o),!0):void 0});

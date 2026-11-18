@@ -1,0 +1,1 @@
+import{a as r,b as t}from"./Logger-sdbVYp0w.js";import{q as s}from"./index-BDdBpdox.js";const o=async()=>{if(s())return!1;const o=Number(await r("tasksV2Rollout")??0);if(o){if(t(localStorage.getItem("user_uuid"))<=o)return!0}return!1};export{o as s};

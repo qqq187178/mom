@@ -1,0 +1,1 @@
+import{u as s}from"./dashboard-BkhHLr9m.js";import{u as o}from"./Analytics-f7QHLdkf.js";import"./index-BDdBpdox.js";import"./Logger-sdbVYp0w.js";import"./style-Bu43HLOl.js";import"./persistStore-B6nkFOJW.js";import"./constants-BPZJVlCu.js";const t=async()=>{await o(()=>s().loaded).toBe(!0)};export{t as waitForDashboardLoaded};

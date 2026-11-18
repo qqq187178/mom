@@ -1,0 +1,1 @@
+import{d as a}from"./dragDropRegistry-DujYt43a.js";import{t as l}from"./Analytics-f7QHLdkf.js";const e=(e,o)=>{var p;(p=a.droppableCallbacks)[e]??(p[e]=new Set([])),a.droppableCallbacks[e].add(o),l(()=>r(e,o))},r=(l,e)=>{var r,o;null==(r=a.droppableCallbacks[l])||r.delete(e),0===(null==(o=a.droppableCallbacks[l])?void 0:o.size)&&delete a.droppableCallbacks[l]};export{e as o};

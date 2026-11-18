@@ -1,0 +1,1 @@
+const o="tasks-lists",s="tasks",i={emptyListPointPosition:"10px 50%",firstPointPosition:"10px 0%",secondPointPosition:"10px 100%",singlePoint:!1,dragOverPointPosition:"10px 50%",snapToSectionEndPointPosition:"10px 50%"},t="focus";export{t as F,s as S,i as T,o as a};

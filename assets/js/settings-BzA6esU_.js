@@ -1,0 +1,1 @@
+import{b as s,d as t}from"./dashboard-BkhHLr9m.js";const o=()=>{const s=t.focusModeSettings,o=JSON.parse(m.models.customization.persistentSettings.defaultIfNotSet.focusModeSettingsStr);return s.apps={...o.apps,...s.apps},{...o,...s}},a=()=>s;export{a,o as g};

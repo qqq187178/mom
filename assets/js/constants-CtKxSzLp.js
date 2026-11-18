@@ -1,0 +1,1 @@
+const e=1,a=720,d="focused time goal",r={MinutesMin:"Please enter 1 minute or more",MinutesMax:"Please enter 720 minutes or less"},s={Hidden:"Hidden",Member:"Member",Admin:"Admin"},n={Me:"me",Leaderboard:"leaderboard"},l=[{label:"Me",value:n.Me},{label:"Leaderboard",value:n.Leaderboard}];export{r as E,n as F,s as L,l as a,d as b,e as c,a as d};

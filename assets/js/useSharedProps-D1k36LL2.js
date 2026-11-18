@@ -1,0 +1,1 @@
+import{m as t}from"./index-BDdBpdox.js";const e=(e,r)=>{const s=Object.keys(e);return t(()=>Object.fromEntries(s.map(t=>[t,r[t]])))};export{e as u};
